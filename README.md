@@ -83,7 +83,7 @@ To be published.
 
 ## Copyright
 
-Copyright (c) 2016-2018 Fu-Hao Lu
+Copyright (c) 2019-2022 Zhun Wei
 
 Under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
